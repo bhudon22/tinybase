@@ -1,3 +1,6 @@
+// Copyright (C) 
+// Author: Dylan Muller
+
 .intel_syntax noprefix
 .text
 .globl _start, syscall
