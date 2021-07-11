@@ -1,3 +1,6 @@
+// Copyright (C) 
+// Author: Dylan Muller
+
 typedef  unsigned  long  int uintptr;
 typedef  long  int intptr;
 
